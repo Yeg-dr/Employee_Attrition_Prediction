@@ -39,7 +39,7 @@ Found constant columns like EmployeeCount and StandardHours with no variance (an
 
 ---
 
-🔧 Next Steps (Planned)
+## 🔧 Next Steps (Planned)
 
 Step 3: Data Cleaning
 
@@ -71,7 +71,7 @@ Add feature scaling and feature engineering.
 
 ---
 
-📁 Dataset
+## 📁 Dataset
 
 IBM HR Analytics Employee Attrition & Performance (Kaggle)
 
@@ -79,7 +79,7 @@ IBM HR Analytics Employee Attrition & Performance (Kaggle)
 
 ---
 
-🚀 Purpose
+## 🚀 Purpose
 
 This project is not intended for production but as a learning tool to practice:
 
