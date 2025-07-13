@@ -13,26 +13,26 @@ I’m currently in the process of learning machine learning, and this project is
 
 ## ✅ What Has Been Done So Far
 
-1. Data Loading
+**1. Data Loading**
 
-Loaded CSV file into a Pandas DataFrame.
+* Loaded CSV file into a Pandas DataFrame.
 
-Explored basic structure using .head(), .info(), and .describe().
+* Explored basic structure using .head(), .info(), and .describe().
 
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 
-Checked data types, value counts, and basic statistics.
+* Checked data types, value counts, and basic statistics.
 
-Visualized target variable (Attrition) with countplots.
+* Visualized target variable (Attrition) with countplots.
 
-Plotted histograms of numeric features such as Age, MonthlyIncome, YearsAtCompany, etc.
+* Plotted histograms of numeric features such as Age, MonthlyIncome, YearsAtCompany, etc.
 
-Created boxplots to compare features across attrition classes.
+* Created boxplots to compare features across attrition classes.
 
-Generated a heatmap to examine correlations between numeric features.
+* Generated a heatmap to examine correlations between numeric features.
 
-Found constant columns like EmployeeCount and StandardHours with no variance (and thus no correlation), which will be removed in the cleaning step.
+* Found constant columns like EmployeeCount and StandardHours with no variance (and thus no correlation), which will be removed in the cleaning step.
 
 
 
@@ -41,30 +41,30 @@ Found constant columns like EmployeeCount and StandardHours with no variance (an
 
 ## 🔧 Next Steps (Planned)
 
-Step 3: Data Cleaning
+**Step 3: Data Cleaning**
 
-Handle missing values.
+* Handle missing values.
 
-Drop constant or irrelevant columns.
+* Drop constant or irrelevant columns.
 
-Encode categorical features using one-hot encoding.
-
-
-Step 4: Model Training
-
-Use logistic regression or decision trees with default hyperparameters.
+* Encode categorical features using one-hot encoding.
 
 
-Step 5: Model Evaluation
+**Step 4: Model Training**
 
-Evaluate performance with metrics like accuracy, precision, recall, F1-score.
+* Use logistic regression or decision trees with default hyperparameters.
 
 
-Step 6: Improvements
+**Step 5: Model Evaluation**
 
-Try other models and tune hyperparameters.
+* Evaluate performance with metrics like accuracy, precision, recall, F1-score.
 
-Add feature scaling and feature engineering.
+
+**Step 6: Improvements**
+
+* Try other models and tune hyperparameters.
+
+* Add feature scaling and feature engineering.
 
 
 
@@ -81,15 +81,19 @@ IBM HR Analytics Employee Attrition & Performance (Kaggle)
 
 ## 🚀 Purpose
 
-This project is not intended for production but as a learning tool to practice:
+**This project is not intended for production but as a learning tool to practice:**
 
-Exploratory data analysis
+* Exploratory data analysis
 
-Data preprocessing
+* Data preprocessing
 
-Model training and evaluation
+* Model training and evaluation
 
-Visualization and interpretation
+* Visualization and interpretation
 
 
 It will continue to grow and improve as I learn more about machine learning and best practices in data science.
+
+---
+
+With love and pation by Yeg 🪼
