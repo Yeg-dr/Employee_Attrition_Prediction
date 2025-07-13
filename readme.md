@@ -1,8 +1,8 @@
 ---
 
-🧠 Employee Attrition Prediction (ML Learning Project)
+# 🧠 Employee Attrition Prediction (ML Learning Project)
 
-📌 Project Description
+## 📌 Project Description
 
 This project explores and models employee attrition using the IBM HR Analytics Employee Attrition dataset. The goal is to practice the full machine learning pipeline from data loading to model training and evaluation using Python libraries such as pandas, seaborn, and scikit-learn.
 
@@ -11,7 +11,7 @@ I’m currently in the process of learning machine learning, and this project is
 
 ---
 
-✅ What Has Been Done So Far
+## ✅ What Has Been Done So Far
 
 1. Data Loading
 
